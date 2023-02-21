@@ -29,8 +29,143 @@
             "name": "Court 3",
             "type": "Outdoor"
         }
-    ], 
-    "profile": {
-        "name": "typicode"
-    }
+    ],
+    "schedule": [
+        {
+            "id": "2023-02-23",
+            "docs": [
+                {
+                    "id": "62ec893705a2d700da38b1f1",
+                    "datetime": "2023-02-23T06:30:00Z",
+                    "startHour": "2023-02-23T06:30:00Z",
+                    "endHour": "2023-02-23T07:30:00Z",
+                    "type": "Activity",
+                    "reservedBy": "Claudio",
+                    "courtId": "62ec893705a2d700da38b0f3"
+                },
+                {
+                    "id": "62ec893705a2d700da38b1f2",
+                    "datetime": "2023-02-23T13:00:00Z",
+                    "startHour": "2023-02-23T13:00:00Z",
+                    "endHour": "2023-02-23T15:00:00Z",
+                    "type": "Internal Booking",
+                    "reservedBy": "Agung",
+                    "courtId": "62ec893705a2d700da38b0f3"
+                },
+                {
+                    "id": "62ec893705a2d700da38b1f3",
+                    "datetime": "2023-02-23T15:30:00Z",
+                    "startHour": "2023-02-23T15:30:00Z",
+                    "endHour": "2023-02-23T16:30:00Z",
+                    "type": "Subscription",
+                    "reservedBy": "Denny",
+                    "courtId": "62ec893705a2d700da38b0f3"
+                },
+                {
+                    "id": "62ec893705a2d700da38b1f4",
+                    "datetime": "2023-02-23T18:00:00Z",
+                    "startHour": "2023-02-23T18:00:00Z",
+                    "endHour": "2023-02-23T19:00:00Z",
+                    "type": "Canceled",
+                    "reservedBy": "Zidan",
+                    "courtId": "62ec893705a2d700da38b0f3"
+                },
+                {
+                    "id": "62ec893705a2d700da38b1f1",
+                    "datetime": "2023-02-23T09:30:00Z",
+                    "startHour": "2023-02-23T09:30:00Z",
+                    "endHour": "2023-02-23T10:30:00Z",
+                    "type": "Canceled",
+                    "reservedBy": "Claudio",
+                    "courtId": "62ec893705a2d700da38b0f5"
+                },
+                {
+                    "id": "62ec893705a2d700da38b1f2",
+                    "datetime": "2023-02-23T14:00:00Z",
+                    "startHour": "2023-02-23T14:00:00Z",
+                    "endHour": "2023-02-23T15:00:00Z",
+                    "type": "Internal Booking",
+                    "reservedBy": "Agung",
+                    "courtId": "62ec893705a2d700da38b0f5"
+                },
+                {
+                    "id": "62ec893705a2d700da38b1f3",
+                    "datetime": "2023-02-23T15:30:00Z",
+                    "startHour": "2023-02-23T15:30:00Z",
+                    "endHour": "2023-02-23T16:30:00Z",
+                    "type": "Subscription",
+                    "reservedBy": "Denny",
+                    "courtId": "62ec893705a2d700da38b0f5"
+                },
+                {
+                    "id": "62ec893705a2d700da38b1f4",
+                    "datetime": "2023-02-23T16:30:00Z",
+                    "startHour": "2023-02-23T16:30:00Z",
+                    "endHour": "2023-02-23T18:30:00Z",
+                    "type": "Activity",
+                    "reservedBy": "Zidan",
+                    "courtId": "62ec893705a2d700da38b0f5"
+                }
+            ]
+        },
+        {
+            "id": "2023-02-24",
+            "docs": [
+                {
+                    "id": "62ec893705a2d700da38b1f1",
+                    "datetime": "2023-02-24T07:30:00Z",
+                    "startHour": "2023-02-24T07:30:00Z",
+                    "endHour": "2023-02-24T08:30:00Z",
+                    "type": "Activity",
+                    "reservedBy": "Claudio",
+                    "courtId": "62ec893705a2d700da38b0f3"
+                },
+                {
+                    "id": "62ec893705a2d700da38b1f3",
+                    "datetime": "2023-02-24T15:30:00Z",
+                    "startHour": "2023-02-24T15:30:00Z",
+                    "endHour": "2023-02-24T16:30:00Z",
+                    "type": "Subscription",
+                    "reservedBy": "Denny",
+                    "courtId": "62ec893705a2d700da38b0f3"
+                },
+                {
+                    "id": "62ec893705a2d700da38b1f4",
+                    "datetime": "2023-02-24T18:00:00Z",
+                    "startHour": "2023-02-24T18:00:00Z",
+                    "endHour": "2023-02-24T19:00:00Z",
+                    "type": "Canceled",
+                    "reservedBy": "Zidan",
+                    "courtId": "62ec893705a2d700da38b0f3"
+                },
+                {
+                    "id": "62ec893705a2d700da38b1f1",
+                    "datetime": "2023-02-24T08:30:00Z",
+                    "startHour": "2023-02-24T08:30:00Z",
+                    "endHour": "2023-02-24T10:30:00Z",
+                    "type": "Canceled",
+                    "reservedBy": "Claudio",
+                    "courtId": "62ec893705a2d700da38b0f5"
+                },
+                {
+                    "id": "62ec893705a2d700da38b0f4",
+                    "datetime": "2023-02-24T14:00:00Z",
+                    "startHour": "2023-02-24T14:00:00Z",
+                    "endHour": "2023-02-24T15:00:00Z",
+                    "type": "Internal Booking",
+                    "reservedBy": "Agung",
+                    "courtId": "62ec893705a2d700da38b0f5"
+                },
+                {
+                    "id": "62ec893705a2d700da38b0f4",
+                    "datetime": "2023-02-24T16:30:00Z",
+                    "startHour": "2023-02-24T16:30:00Z",
+                    "endHour": "2023-02-24T18:30:00Z",
+                    "type": "Activity",
+                    "reservedBy": "Zidan",
+                    "courtId": "62ec893705a2d700da38b0f5"
+                }
+            ]
+        }
+    ]
 }
