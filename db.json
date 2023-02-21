@@ -13,31 +13,23 @@
             "title": "Post 3"
         }
     ],
-    "courts": {
-        "code": 200,
-        "data": {
-            "result": {
-                "docs": [
-                    {
-                        "id": "62ec893705a2d700da38b0f3",
-                        "name": "Court 1",
-                        "type": "Covered"
-                    },
-                    {
-                        "id": "62ec893705a2d700da38b0f4",
-                        "name": "Court 2",
-                        "type": "Single Court"
-                    },
-                    {
-                        "id": "62ec893705a2d700da38b0f5",
-                        "name": "Court 3",
-                        "type": "Outdoor"
-                    }
-                ]
-            }
+    "courts": [
+        {
+            "id": "62ec893705a2d700da38b0f3",
+            "name": "Court 1",
+            "type": "Covered"
         },
-        "messageId": "OK"
-    },
+        {
+            "id": "62ec893705a2d700da38b0f4",
+            "name": "Court 2",
+            "type": "Single Court"
+        },
+        {
+            "id": "62ec893705a2d700da38b0f5",
+            "name": "Court 3",
+            "type": "Outdoor"
+        }
+    ], 
     "profile": {
         "name": "typicode"
     }
