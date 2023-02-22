@@ -66,7 +66,7 @@
                     "datetime": "2023-02-23T18:00:00Z",
                     "startHour": "2023-02-23T18:00:00Z",
                     "endHour": "2023-02-23T19:00:00Z",
-                    "type": "Canceled",
+                    "type": "Cancelled",
                     "reservedBy": "Zidan",
                     "courtId": "62ec893705a2d700da38b0f3"
                 },
@@ -75,7 +75,7 @@
                     "datetime": "2023-02-23T09:30:00Z",
                     "startHour": "2023-02-23T09:30:00Z",
                     "endHour": "2023-02-23T10:30:00Z",
-                    "type": "Canceled",
+                    "type": "Cancelled",
                     "reservedBy": "Claudio",
                     "courtId": "62ec893705a2d700da38b0f5"
                 },
@@ -134,7 +134,7 @@
                     "datetime": "2023-02-24T18:00:00Z",
                     "startHour": "2023-02-24T18:00:00Z",
                     "endHour": "2023-02-24T19:00:00Z",
-                    "type": "Canceled",
+                    "type": "Cancelled",
                     "reservedBy": "Zidan",
                     "courtId": "62ec893705a2d700da38b0f3"
                 },
@@ -143,7 +143,7 @@
                     "datetime": "2023-02-24T08:30:00Z",
                     "startHour": "2023-02-24T08:30:00Z",
                     "endHour": "2023-02-24T10:30:00Z",
-                    "type": "Canceled",
+                    "type": "Cancelled",
                     "reservedBy": "Claudio",
                     "courtId": "62ec893705a2d700da38b0f5"
                 },
