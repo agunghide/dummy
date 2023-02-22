@@ -1,17 +1,34 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "Post 1"
-        },
-        {
-            "id": 2,
-            "title": "Post 2"
-        },
-        {
-            "id": 3,
-            "title": "Post 3"
-        }
+    "tebak_kalimat": [
+        "Topeng Monyet",
+        "Banting Tulang",
+        "Salah Urat",
+        "Tabrak Lari",
+        "Pukul Rata",
+        "Patah Hati",
+        "Jantung Pisang",
+        "Mobil Terbang",
+        "Sepeda Lipat",
+        "Buta Huruf",
+        "Jam Dinding",
+        "Rumah Sakit",
+        "Mata Pancing",
+        "Jalan Panjang",
+        "Cari Mati",
+        "Goyang Itik",
+        "Babi Guling",
+        "Cinta Segitiga",
+        "Kumis Tipis",
+        "Permen Kaki",
+        "Buta Arah",
+        "Kulit Mati",
+        "Kakek Cangkul",
+        "Mulut Besar",
+        "Meja Makan",
+        "Tas Punggung",
+        "Uang Muka",
+        "Motor Bebek",
+        "Nenek Gayung"
     ],
     "courts": [
         {
