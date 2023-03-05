@@ -55,6 +55,16 @@
             "id": "62ec893705a2d700da38b0f7",
             "name": "Court 5",
             "type": "Indoor"
+        },
+        {
+            "id": "62ec893705a2d700da38b0f8",
+            "name": "Court 6",
+            "type": "Outdoor"
+        },
+        {
+            "id": "62ec893705a2d700da38b0f9",
+            "name": "Court 7",
+            "type": "Indoor"
         }
     ],
     "schedule": [
