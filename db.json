@@ -67,12 +67,12 @@
             "type": "Indoor"
         },
         {
-            "id": "62ec893705a2d700da38b0f9",
+            "id": "62ec893705a2d700da38b0g1",
             "name": "Court 8",
             "type": "Indoor"
         },
         {
-            "id": "62ec893705a2d700da38b0g10",
+            "id": "62ec893705a2d700da38b0g2",
             "name": "Court 9",
             "type": "Indoor"
         }
@@ -248,10 +248,10 @@
                     "id": "62ec893705a2d700da38b0f4",
                     "datetime": "2023-03-19T15:30:00Z",
                     "startHour": "2023-03-19T14:30:00Z",
-                    "endHour": "2023-03-19T15:30:00Z",
+                    "endHour": "2023-03-19T16:30:00Z",
                     "type": "Internal Booking",
                     "reservedBy": "Claudio",
-                    "courtId": "62ec893705a2d700da38b0f9"
+                    "courtId": "62ec893705a2d700da38b0f7"
                 },
                 {
                     "id": "62ec893705a2d700da38b0f4",
@@ -260,7 +260,7 @@
                     "endHour": "2023-03-19T11:30:00Z",
                     "type": "Subscription",
                     "reservedBy": "Agung",
-                    "courtId": "62ec893705a2d700da38b0f6"
+                    "courtId": "62ec893705a2d700da38b0g2"
                 }
             ]
         }
