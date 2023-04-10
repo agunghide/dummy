@@ -77,7 +77,7 @@
                     "datetime": "2023-04-07T06:30:00.000Z",
                     "startHour": "2023-04-07T06:30:00.000Z",
                     "endHour": "2023-04-07T07:30:00.000Z",
-                    "type": "Activity",
+                    "type": "ACTIVITY",
                     "reservedBy": "Claudio",
                     "courtId": "62ec893705a2d700da38b0f3"
                 },
@@ -86,7 +86,7 @@
                     "datetime": "2023-04-07T13:00:00.000Z",
                     "startHour": "2023-04-07T13:00:00.000Z",
                     "endHour": "2023-04-07T15:00:00.000Z",
-                    "type": "Internal Booking",
+                    "type": "INTERNAL_BOOKING",
                     "reservedBy": "Agung",
                     "courtId": "62ec893705a2d700da38b0f3"
                 },
@@ -95,7 +95,7 @@
                     "datetime": "2023-04-07T15:30:00.000Z",
                     "startHour": "2023-04-07T15:30:00.000Z",
                     "endHour": "2023-04-07T16:30:00.000Z",
-                    "type": "Subscription",
+                    "type": "SUBSCRIPTION",
                     "reservedBy": "Denny",
                     "courtId": "62ec893705a2d700da38b0f3"
                 },
@@ -104,7 +104,7 @@
                     "datetime": "2023-04-07T18:00:00.000Z",
                     "startHour": "2023-04-07T18:00:00.000Z",
                     "endHour": "2023-04-07T19:00:00.000Z",
-                    "type": "Cancelled",
+                    "type": "CANCELLED_BY_SUBSCRIBER",
                     "reservedBy": "Zidan",
                     "courtId": "62ec893705a2d700da38b0f3"
                 },
@@ -113,7 +113,7 @@
                     "datetime": "2023-04-07T09:30:00.000Z",
                     "startHour": "2023-04-07T09:30:00.000Z",
                     "endHour": "2023-04-07T10:30:00.000Z",
-                    "type": "Cancelled",
+                    "type": "CANCELLED_BY_SUBSCRIBER",
                     "reservedBy": "Claudio",
                     "courtId": "62ec893705a2d700da38b0f5"
                 },
@@ -122,7 +122,7 @@
                     "datetime": "2023-04-07T14:00:00.000Z",
                     "startHour": "2023-04-07T14:00:00.000Z",
                     "endHour": "2023-04-07T15:00:00.000Z",
-                    "type": "Internal Booking",
+                    "type": "INTERNAL_BOOKING",
                     "reservedBy": "Agung",
                     "courtId": "62ec893705a2d700da38b0f5"
                 },
@@ -131,7 +131,7 @@
                     "datetime": "2023-04-07T15:30:00.000Z",
                     "startHour": "2023-04-07T15:30:00.000Z",
                     "endHour": "2023-04-07T16:30:00.000Z",
-                    "type": "Subscription",
+                    "type": "SUBSCRIPTION",
                     "reservedBy": "Denny",
                     "courtId": "62ec893705a2d700da38b0f5"
                 },
@@ -140,7 +140,7 @@
                     "datetime": "2023-04-07T16:30:00.000Z",
                     "startHour": "2023-04-07T16:30:00.000Z",
                     "endHour": "2023-04-07T18:30:00.000Z",
-                    "type": "Activity",
+                    "type": "ACTIVITY",
                     "reservedBy": "Zidan",
                     "courtId": "62ec893705a2d700da38b0f5"
                 }
@@ -154,7 +154,7 @@
                     "datetime": "2023-04-08T07:30:00.000Z",
                     "startHour": "2023-04-08T07:30:00.000Z",
                     "endHour": "2023-04-08T08:30:00.000Z",
-                    "type": "Activity",
+                    "type": "ACTIVITY",
                     "reservedBy": "Claudio",
                     "courtId": "62ec893705a2d700da38b0f4"
                 },
@@ -163,7 +163,7 @@
                     "datetime": "2023-04-08T15:30:00.000Z",
                     "startHour": "2023-04-08T15:30:00.000Z",
                     "endHour": "2023-04-08T16:30:00.000Z",
-                    "type": "Subscription",
+                    "type": "SUBSCRIPTION",
                     "reservedBy": "Denny",
                     "courtId": "62ec893705a2d700da38b0f3"
                 },
@@ -172,7 +172,7 @@
                     "datetime": "2023-04-08T08:30:00.000Z",
                     "startHour": "2023-04-08T08:30:00.000Z",
                     "endHour": "2023-04-08T10:30:00.000Z",
-                    "type": "Cancelled",
+                    "type": "CANCELLED_BY_SUBSCRIBER",
                     "reservedBy": "Claudio",
                     "courtId": "62ec893705a2d700da38b0f5"
                 },
@@ -181,7 +181,7 @@
                     "datetime": "2023-04-08T14:00:00.000Z",
                     "startHour": "2023-04-08T14:00:00.000Z",
                     "endHour": "2023-04-08T15:00:00.000Z",
-                    "type": "Internal Booking",
+                    "type": "INTERNAL_BOOKING",
                     "reservedBy": "Agung",
                     "courtId": "62ec893705a2d700da38b0f5"
                 },
@@ -190,7 +190,7 @@
                     "datetime": "2023-04-08T16:30:00.000Z",
                     "startHour": "2023-04-08T16:30:00.000Z",
                     "endHour": "2023-04-08T18:30:00.000Z",
-                    "type": "Activity",
+                    "type": "ACTIVITY",
                     "reservedBy": "Zidan",
                     "courtId": "62ec893705a2d700da38b0f4"
                 }
@@ -204,7 +204,7 @@
                     "datetime": "2023-04-09T07:30:00.000Z",
                     "startHour": "2023-04-09T07:30:00.000Z",
                     "endHour": "2023-04-09T08:30:00.000Z",
-                    "type": "Activity",
+                    "type": "ACTIVITY",
                     "reservedBy": "Claudio",
                     "courtId": "62ec893705a2d700da38b0f4"
                 },
@@ -213,7 +213,7 @@
                     "datetime": "2023-04-09T08:30:00.000Z",
                     "startHour": "2023-04-09T08:30:00.000Z",
                     "endHour": "2023-04-09T10:30:00.000Z",
-                    "type": "Cancelled",
+                    "type": "CANCELLED_BY_SUBSCRIBER",
                     "reservedBy": "Claudio",
                     "courtId": "62ec893705a2d700da38b0f5"
                 },
@@ -222,7 +222,7 @@
                     "datetime": "2023-04-09T20:00:00.000Z",
                     "startHour": "2023-04-09T20:00:00.000Z",
                     "endHour": "2023-04-09T21:30:00.000Z",
-                    "type": "Internal Booking",
+                    "type": "INTERNAL_BOOKING",
                     "reservedBy": "Agung",
                     "courtId": "62ec893705a2d700da38b0f5"
                 },
@@ -231,7 +231,7 @@
                     "datetime": "2023-04-09T16:30:00.000Z",
                     "startHour": "2023-04-09T16:30:00.000Z",
                     "endHour": "2023-04-09T18:30:00.000Z",
-                    "type": "Cancelled",
+                    "type": "CANCELLED_BY_SUBSCRIBER",
                     "reservedBy": "Zidan",
                     "courtId": "62ec893705a2d700da38b0f4"
                 },
@@ -240,7 +240,7 @@
                     "datetime": "2023-04-09T14:30:00.000Z",
                     "startHour": "2023-04-09T14:30:00.000Z",
                     "endHour": "2023-04-09T16:30:00.000Z",
-                    "type": "Internal Booking",
+                    "type": "INTERNAL_BOOKING",
                     "reservedBy": "Claudio",
                     "courtId": "62ec893705a2d700da38b0f7"
                 },
@@ -249,7 +249,7 @@
                     "datetime": "2023-04-09T09:30:00.000Z",
                     "startHour": "2023-04-09T09:30:00.000Z",
                     "endHour": "2023-04-09T11:30:00.000Z",
-                    "type": "Subscription",
+                    "type": "SUBSCRIPTION",
                     "reservedBy": "Agung",
                     "courtId": "62ec893705a2d700da38b0g2"
                 }
