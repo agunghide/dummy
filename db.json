@@ -132,7 +132,7 @@
                             "qty": 4
                         }
                     ],
-                    "sendEmail": true
+                    "sendEmail": false
                 },
                 {
                     "id": "3",
@@ -169,14 +169,8 @@
                             "name": "Player 1"
                         }
                     ],
-                    "extras": [
-                        {
-                            "id": 1,
-                            "name": "Mineral Water",
-                            "qty": 4
-                        }
-                    ],
-                    "sendEmail": true
+                    "extras": null,
+                    "sendEmail": false
                 },
                 {
                     "id": "4",
@@ -203,16 +197,7 @@
                         "id": 1,
                         "name": "GTG Presentkort Gold"
                     },
-                    "additionalPlayers": [
-                        {
-                            "id": 2,
-                            "name": "Player 2"
-                        },
-                        {
-                            "id": 1,
-                            "name": "Player 1"
-                        }
-                    ],
+                    "additionalPlayers": null,
                     "extras": [
                         {
                             "id": 1,
@@ -249,50 +234,6 @@
                     },
                     "additionalPlayers": [
                         {
-                            "id": 4,
-                            "name": "Player 4"
-                        },
-                        {
-                            "id": 6,
-                            "name": "Player 6"
-                        }
-                    ],
-                    "extras": [
-                        {
-                            "id": 1,
-                            "name": "Mineral Water",
-                            "qty": 10
-                        }
-                    ],
-                    "sendEmail": true
-                },
-                {
-                    "id": "6",
-                    "datetime": "2023-04-25T14:00:00.000Z",
-                    "startHour": "2023-04-25T14:00:00.000Z",
-                    "endHour": "2023-04-25T15:00:00.000Z",
-                    "type": "INTERNAL_BOOKING",
-                    "reservedBy": "Agung",
-                    "courtId": "62ec893705a2d700da38b0f5",
-                    "duration": 60,
-                    "weeklySubscription": null,
-                    "subscriptionDays": null,
-                    "endDateSubscription": null,
-                    "comment": "",
-                    "trainer": {
-                        "id": 5,
-                        "name": "Trainer 5"
-                    },
-                    "customer": {
-                        "id": 1,
-                        "name": "Customer 1"
-                    },
-                    "card": {
-                        "id": 1,
-                        "name": "GTG Presentkort Gold"
-                    },
-                    "additionalPlayers": [
-                        {
                             "id": 2,
                             "name": "Player 2"
                         },
@@ -309,98 +250,10 @@
                         {
                             "id": 1,
                             "name": "Mineral Water",
-                            "qty": 4
+                            "qty": 10
                         }
                     ],
                     "sendEmail": true
-                },
-                {
-                    "id": "7",
-                    "datetime": "2023-04-25T15:30:00.000Z",
-                    "startHour": "2023-04-25T15:30:00.000Z",
-                    "endHour": "2023-04-25T16:30:00.000Z",
-                    "type": "SUBSCRIPTION",
-                    "reservedBy": "Denny",
-                    "courtId": "62ec893705a2d700da38b0f5",
-                    "duration": 60,
-                    "weeklySubscription": 1,
-                    "subscriptionDays": [0, 3],
-                    "endDateSubscription": "2023-04-25",
-                    "comment": "",
-                    "trainer": {
-                        "id": 1,
-                        "name": "Trainer 1"
-                    },
-                    "customer": {
-                        "id": 1,
-                        "name": "Customer 1"
-                    },
-                    "card": {
-                        "id": 1,
-                        "name": "GTG Presentkort Gold"
-                    },
-                    "additionalPlayers": [
-                        {
-                            "id": 2,
-                            "name": "Player 2"
-                        },
-                        {
-                            "id": 1,
-                            "name": "Player 1"
-                        }
-                    ],
-                    "extras": [
-                        {
-                            "id": 1,
-                            "name": "Mineral Water",
-                            "qty": 4
-                        }
-                    ],
-                    "sendEmail": true
-                },
-                {
-                    "id": "8",
-                    "datetime": "2023-04-25T16:30:00.000Z",
-                    "startHour": "2023-04-25T16:30:00.000Z",
-                    "endHour": "2023-04-25T18:30:00.000Z",
-                    "type": "ACTIVITY",
-                    "reservedBy": "Zidan",
-                    "courtId": "62ec893705a2d700da38b0f5",
-                    "duration": 60,
-                    "weeklySubscription": null,
-                    "subscriptionDays": null,
-                    "endDateSubscription": null,
-                    "comment": "",
-                    "trainer": {
-                        "id": 1,
-                        "name": "Trainer 1"
-                    },
-                    "customer": {
-                        "id": 1,
-                        "name": "Customer 1"
-                    },
-                    "card": {
-                        "id": 1,
-                        "name": "GTG Presentkort Gold"
-                    },
-                    "additionalPlayers": [
-                        {
-                            "id": 2,
-                            "name": "Player 2"
-                        },
-                        {
-                            "id": 1,
-                            "name": "Player 1"
-                        }
-                    ],
-                    "extras": [
-                        {
-                            "id": 1,
-                            "name": "Mineral Water",
-                            "qty": 4
-                        }
-                    ],
-                    "sendEmail": false
                 }
             ]
         }
