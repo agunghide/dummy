@@ -54,7 +54,7 @@
                     "id": "1",
                     "datetime": "2023-04-25T06:30:00.000Z",
                     "startHour": "2023-04-25T06:30:00.000Z",
-                    "endHour": "2023-04-25T07:30:00.000Z",
+                    "endHour": "2023-04-25T08:00:00.000Z",
                     "type": "ACTIVITY",
                     "reservedBy": "Claudio",
                     "court": {
@@ -62,7 +62,7 @@
                         "name": "Court 1",
                         "type": "Covered"
                     },
-                    "duration": 60,
+                    "duration": 90,
                     "weeklySubscription": null,
                     "subscriptionDays": null,
                     "endDateSubscription": null,
@@ -227,7 +227,7 @@
                     "id": "5",
                     "datetime": "2023-04-25T09:30:00.000Z",
                     "startHour": "2023-04-25T09:30:00.000Z",
-                    "endHour": "2023-04-25T10:30:00.000Z",
+                    "endHour": "2023-04-25T11:30:00.000Z",
                     "type": "CANCELLED_BY_SUBSCRIBER",
                     "reservedBy": "Claudio",
                     "court": { 
@@ -235,7 +235,7 @@
                         "name": "Court 3",
                         "type": "Outdoor"
                     },
-                    "duration": 60,
+                    "duration": 120,
                     "weeklySubscription": null,
                     "subscriptionDays": null,
                     "endDateSubscription": null,
