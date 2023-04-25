@@ -153,8 +153,8 @@
                     },
                     "duration": 60,
                     "weeklySubscription": null,
-                    "subscriptionDays": [],
-                    "endDateSubscription": null,
+                    "subscriptionDays": [0,3],
+                    "endDateSubscription": "2023-04-25",
                     "comment": "Testing Comments",
                     "trainer": {
                         "id": 2,
