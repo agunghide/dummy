@@ -152,7 +152,7 @@
                         "type": "Covered"
                     },
                     "duration": 60,
-                    "weeklySubscription": null,
+                    "weeklySubscription": 2,
                     "subscriptionDays": [0,3],
                     "endDateSubscription": "2023-04-26",
                     "comment": "Testing Comments",
