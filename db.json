@@ -58,7 +58,9 @@
                     "type": "ACTIVITY",
                     "reservedBy": "Claudio",
                     "court": {
-                        "id": "62ec893705a2d700da38b0f3"
+                        "id": "62ec893705a2d700da38b0f3",
+                        "name": "Court 1",
+                        "type": "Covered"
                     },
                     "duration": 60,
                     "weeklySubscription": null,
@@ -104,7 +106,9 @@
                     "type": "BOOKED_FULLY_PAID",
                     "reservedBy": "Agung",
                     "court": { 
-                        "id": "62ec893705a2d700da38b0f3"
+                        "id": "62ec893705a2d700da38b0f3",
+                        "name": "Court 1",
+                        "type": "Covered"
                     },
                     "duration": 120,
                     "weeklySubscription": null,
@@ -146,7 +150,9 @@
                     "type": "SUBSCRIPTION",
                     "reservedBy": "Denny",
                     "court": { 
-                        "id": "62ec893705a2d700da38b0f3"
+                        "id": "62ec893705a2d700da38b0f3",
+                        "name": "Court 1",
+                        "type": "Covered"
                     },
                     "duration": 60,
                     "weeklySubscription": null,
@@ -186,7 +192,9 @@
                     "type": "CANCELLED_BY_SUBSCRIBER",
                     "reservedBy": "Zidan",
                     "court": { 
-                        "id": "62ec893705a2d700da38b0f3"
+                        "id": "62ec893705a2d700da38b0f3",
+                        "name": "Court 1",
+                        "type": "Covered"
                     },
                     "duration": 60,
                     "weeklySubscription": null,
@@ -223,7 +231,9 @@
                     "type": "CANCELLED_BY_SUBSCRIBER",
                     "reservedBy": "Claudio",
                     "court": { 
-                        "id": "62ec893705a2d700da38b0f5"
+                        "id": "62ec893705a2d700da38b0f5",
+                        "name": "Court 3",
+                        "type": "Outdoor"
                     },
                     "duration": 60,
                     "weeklySubscription": null,
