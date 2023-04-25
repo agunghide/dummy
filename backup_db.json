@@ -1,0 +1,272 @@
+{
+    "courts": [
+        {
+            "id": "62ec893705a2d700da38b0f3",
+            "name": "Court 1",
+            "type": "Covered"
+        },
+        {
+            "id": "62ec893705a2d700da38b0f4",
+            "name": "Court 2",
+            "type": "Single Court"
+        },
+        {
+            "id": "62ec893705a2d700da38b0f5",
+            "name": "Court 3",
+            "type": "Outdoor"
+        },
+        {
+            "id": "62ec893705a2d700da38b0f6",
+            "name": "Court 4",
+            "type": "Outdoor"
+        },
+        {
+            "id": "62ec893705a2d700da38b0f7",
+            "name": "Court 5",
+            "type": "Indoor"
+        },
+        {
+            "id": "62ec893705a2d700da38b0f8",
+            "name": "Court 6",
+            "type": "Outdoor"
+        },
+        {
+            "id": "62ec893705a2d700da38b0f9",
+            "name": "Court 7",
+            "type": "Indoor"
+        },
+        {
+            "id": "62ec893705a2d700da38b0g1",
+            "name": "Court 8",
+            "type": "Indoor"
+        },
+        {
+            "id": "62ec893705a2d700da38b0g2",
+            "name": "Court 9",
+            "type": "Indoor"
+        }
+    ],
+    "schedule": [
+        {
+            "id": "2023-04-25",
+            "docs": [
+                {
+                    "id": "1",
+                    "datetime": "2023-04-25T06:30:00.000Z",
+                    "startHour": "2023-04-25T06:30:00.000Z",
+                    "endHour": "2023-04-25T07:30:00.000Z",
+                    "type": "ACTIVITY",
+                    "reservedBy": "Claudio",
+                    "courtId": "62ec893705a2d700da38b0f3",
+                    "duration": 60,
+                    "weeklySubscription": null,
+                    "subscriptionDays": null,
+                    "endDateSubscription": null,
+                    "comment": "",
+                    "trainer": {
+                        "id": 1,
+                        "name": "Trainer 1"
+                    },
+                    "customer": {
+                        "id": 1,
+                        "name": "Customer 1"
+                    },
+                    "card": {
+                        "id": 1,
+                        "name": "GTG Presentkort Gold"
+                    },
+                    "additionalPlayers": [
+                        {
+                            "id": 2,
+                            "name": "Player 2"
+                        },
+                        {
+                            "id": 1,
+                            "name": "Player 1"
+                        }
+                    ],
+                    "extras": [
+                        {
+                            "id": 1,
+                            "name": "Mineral Water",
+                            "qty": 4
+                        }
+                    ],
+                    "sendEmail": true
+                },
+                {
+                    "id": "2",
+                    "datetime": "2023-04-25T13:00:00.000Z",
+                    "startHour": "2023-04-25T13:00:00.000Z",
+                    "endHour": "2023-04-25T15:00:00.000Z",
+                    "type": "BOOKED_FULLY_PAID",
+                    "reservedBy": "Agung",
+                    "courtId": "62ec893705a2d700da38b0f3"
+                },
+                {
+                    "id": "3",
+                    "datetime": "2023-04-25T15:30:00.000Z",
+                    "startHour": "2023-04-25T15:30:00.000Z",
+                    "endHour": "2023-04-25T16:30:00.000Z",
+                    "type": "SUBSCRIPTION",
+                    "reservedBy": "Denny",
+                    "courtId": "62ec893705a2d700da38b0f3"
+                },
+                {
+                    "id": "4",
+                    "datetime": "2023-04-25T18:00:00.000Z",
+                    "startHour": "2023-04-25T18:00:00.000Z",
+                    "endHour": "2023-04-25T19:00:00.000Z",
+                    "type": "CANCELLED_BY_SUBSCRIBER",
+                    "reservedBy": "Zidan",
+                    "courtId": "62ec893705a2d700da38b0f3"
+                },
+                {
+                    "id": "5",
+                    "datetime": "2023-04-25T09:30:00.000Z",
+                    "startHour": "2023-04-25T09:30:00.000Z",
+                    "endHour": "2023-04-25T10:30:00.000Z",
+                    "type": "CANCELLED_BY_SUBSCRIBER",
+                    "reservedBy": "Claudio",
+                    "courtId": "62ec893705a2d700da38b0f5"
+                },
+                {
+                    "id": "6",
+                    "datetime": "2023-04-25T14:00:00.000Z",
+                    "startHour": "2023-04-25T14:00:00.000Z",
+                    "endHour": "2023-04-25T15:00:00.000Z",
+                    "type": "INTERNAL_BOOKING",
+                    "reservedBy": "Agung",
+                    "courtId": "62ec893705a2d700da38b0f5"
+                },
+                {
+                    "id": "7",
+                    "datetime": "2023-04-25T15:30:00.000Z",
+                    "startHour": "2023-04-25T15:30:00.000Z",
+                    "endHour": "2023-04-25T16:30:00.000Z",
+                    "type": "SUBSCRIPTION",
+                    "reservedBy": "Denny",
+                    "courtId": "62ec893705a2d700da38b0f5"
+                },
+                {
+                    "id": "8",
+                    "datetime": "2023-04-25T16:30:00.000Z",
+                    "startHour": "2023-04-25T16:30:00.000Z",
+                    "endHour": "2023-04-25T18:30:00.000Z",
+                    "type": "ACTIVITY",
+                    "reservedBy": "Zidan",
+                    "courtId": "62ec893705a2d700da38b0f5"
+                }
+            ]
+        },
+        {
+            "id": "2023-04-26",
+            "docs": [
+                {
+                    "id": "1",
+                    "datetime": "2023-04-26T07:30:00.000Z",
+                    "startHour": "2023-04-26T07:30:00.000Z",
+                    "endHour": "2023-04-26T08:30:00.000Z",
+                    "type": "ACTIVITY",
+                    "reservedBy": "Claudio",
+                    "courtId": "62ec893705a2d700da38b0f4"
+                },
+                {
+                    "id": "2",
+                    "datetime": "2023-04-26T15:30:00.000Z",
+                    "startHour": "2023-04-26T15:30:00.000Z",
+                    "endHour": "2023-04-26T16:30:00.000Z",
+                    "type": "SUBSCRIPTION",
+                    "reservedBy": "Denny",
+                    "courtId": "62ec893705a2d700da38b0f3"
+                },
+                {
+                    "id": "3",
+                    "datetime": "2023-04-26T08:30:00.000Z",
+                    "startHour": "2023-04-26T08:30:00.000Z",
+                    "endHour": "2023-04-26T10:30:00.000Z",
+                    "type": "CANCELLED_BY_SUBSCRIBER",
+                    "reservedBy": "Claudio",
+                    "courtId": "62ec893705a2d700da38b0f5"
+                },
+                {
+                    "id": "4",
+                    "datetime": "2023-04-26T14:00:00.000Z",
+                    "startHour": "2023-04-26T14:00:00.000Z",
+                    "endHour": "2023-04-26T15:00:00.000Z",
+                    "type": "INTERNAL_BOOKING",
+                    "reservedBy": "Agung",
+                    "courtId": "62ec893705a2d700da38b0f5"
+                },
+                {
+                    "id": "5",
+                    "datetime": "2023-04-26T16:30:00.000Z",
+                    "startHour": "2023-04-26T16:30:00.000Z",
+                    "endHour": "2023-04-26T18:30:00.000Z",
+                    "type": "BOOKED_FULLY_PAID",
+                    "reservedBy": "Zidan",
+                    "courtId": "62ec893705a2d700da38b0f4"
+                }
+            ]
+        },
+        {
+            "id": "2023-04-27",
+            "docs": [
+                {
+                    "id": "1",
+                    "datetime": "2023-04-27T07:30:00.000Z",
+                    "startHour": "2023-04-27T07:30:00.000Z",
+                    "endHour": "2023-04-27T08:30:00.000Z",
+                    "type": "ACTIVITY",
+                    "reservedBy": "Claudio",
+                    "courtId": "62ec893705a2d700da38b0f4"
+                },
+                {
+                    "id": "2",
+                    "datetime": "2023-04-27T08:30:00.000Z",
+                    "startHour": "2023-04-27T08:30:00.000Z",
+                    "endHour": "2023-04-27T10:30:00.000Z",
+                    "type": "BOOKED_FULLY_PAID",
+                    "reservedBy": "Claudio",
+                    "courtId": "62ec893705a2d700da38b0f5"
+                },
+                {
+                    "id": "3",
+                    "datetime": "2023-04-27T20:00:00.000Z",
+                    "startHour": "2023-04-27T20:00:00.000Z",
+                    "endHour": "2023-04-27T21:30:00.000Z",
+                    "type": "INTERNAL_BOOKING",
+                    "reservedBy": "Agung",
+                    "courtId": "62ec893705a2d700da38b0f5"
+                },
+                {
+                    "id": "4",
+                    "datetime": "2023-04-27T16:30:00.000Z",
+                    "startHour": "2023-04-27T16:30:00.000Z",
+                    "endHour": "2023-04-27T18:30:00.000Z",
+                    "type": "CANCELLED_BY_SUBSCRIBER",
+                    "reservedBy": "Zidan",
+                    "courtId": "62ec893705a2d700da38b0f4"
+                },
+                {
+                    "id": "5",
+                    "datetime": "2023-04-27T14:30:00.000Z",
+                    "startHour": "2023-04-27T14:30:00.000Z",
+                    "endHour": "2023-04-27T16:30:00.000Z",
+                    "type": "INTERNAL_BOOKING",
+                    "reservedBy": "Claudio",
+                    "courtId": "62ec893705a2d700da38b0f7"
+                },
+                {
+                    "id": "6",
+                    "datetime": "2023-04-27T09:30:00.000Z",
+                    "startHour": "2023-04-27T09:30:00.000Z",
+                    "endHour": "2023-04-27T11:30:00.000Z",
+                    "type": "SUBSCRIPTION",
+                    "reservedBy": "Agung",
+                    "courtId": "62ec893705a2d700da38b0g2"
+                }
+            ]
+        }
+    ]
+}

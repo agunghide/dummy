@@ -57,7 +57,42 @@
                     "endHour": "2023-04-25T07:30:00.000Z",
                     "type": "ACTIVITY",
                     "reservedBy": "Claudio",
-                    "courtId": "62ec893705a2d700da38b0f3"
+                    "courtId": "62ec893705a2d700da38b0f3",
+                    "duration": 60,
+                    "weeklySubscription": null,
+                    "subscriptionDays": null,
+                    "endDateSubscription": null,
+                    "comment": "",
+                    "trainer": {
+                        "id": 1,
+                        "name": "Trainer 1"
+                    },
+                    "customer": {
+                        "id": 1,
+                        "name": "Customer 1"
+                    },
+                    "card": {
+                        "id": 1,
+                        "name": "GTG Presentkort Gold"
+                    },
+                    "additionalPlayers": [
+                        {
+                            "id": 2,
+                            "name": "Player 2"
+                        },
+                        {
+                            "id": 1,
+                            "name": "Player 1"
+                        }
+                    ],
+                    "extras": [
+                        {
+                            "id": 1,
+                            "name": "Mineral Water",
+                            "qty": 4
+                        }
+                    ],
+                    "sendEmail": true
                 },
                 {
                     "id": "2",
@@ -66,7 +101,38 @@
                     "endHour": "2023-04-25T15:00:00.000Z",
                     "type": "BOOKED_FULLY_PAID",
                     "reservedBy": "Agung",
-                    "courtId": "62ec893705a2d700da38b0f3"
+                    "courtId": "62ec893705a2d700da38b0f3",
+                    "duration": 120,
+                    "weeklySubscription": null,
+                    "subscriptionDays": null,
+                    "endDateSubscription": null,
+                    "comment": "",
+                    "trainer": {
+                        "id": 2,
+                        "name": "Trainer 2"
+                    },
+                    "customer": {
+                        "id": 3,
+                        "name": "Customer 3"
+                    },
+                    "card": {
+                        "id": 1,
+                        "name": "GTG Presentkort Gold"
+                    },
+                    "additionalPlayers": [
+                        {
+                            "id": 4,
+                            "name": "Player 4"
+                        }
+                    ],
+                    "extras": [
+                        {
+                            "id": 1,
+                            "name": "Mineral Water",
+                            "qty": 4
+                        }
+                    ],
+                    "sendEmail": true
                 },
                 {
                     "id": "3",
@@ -75,7 +141,42 @@
                     "endHour": "2023-04-25T16:30:00.000Z",
                     "type": "SUBSCRIPTION",
                     "reservedBy": "Denny",
-                    "courtId": "62ec893705a2d700da38b0f3"
+                    "courtId": "62ec893705a2d700da38b0f3",
+                    "duration": 60,
+                    "weeklySubscription": null,
+                    "subscriptionDays": null,
+                    "endDateSubscription": null,
+                    "comment": "Testing Comments",
+                    "trainer": {
+                        "id": 2,
+                        "name": "Trainer 2"
+                    },
+                    "customer": {
+                        "id": 1,
+                        "name": "Customer 1"
+                    },
+                    "card": {
+                        "id": 1,
+                        "name": "GTG Presentkort Gold"
+                    },
+                    "additionalPlayers": [
+                        {
+                            "id": 2,
+                            "name": "Player 2"
+                        },
+                        {
+                            "id": 1,
+                            "name": "Player 1"
+                        }
+                    ],
+                    "extras": [
+                        {
+                            "id": 1,
+                            "name": "Mineral Water",
+                            "qty": 4
+                        }
+                    ],
+                    "sendEmail": true
                 },
                 {
                     "id": "4",
@@ -84,7 +185,42 @@
                     "endHour": "2023-04-25T19:00:00.000Z",
                     "type": "CANCELLED_BY_SUBSCRIBER",
                     "reservedBy": "Zidan",
-                    "courtId": "62ec893705a2d700da38b0f3"
+                    "courtId": "62ec893705a2d700da38b0f3",
+                    "duration": 60,
+                    "weeklySubscription": null,
+                    "subscriptionDays": null,
+                    "endDateSubscription": null,
+                    "comment": "",
+                    "trainer": {
+                        "id": 3,
+                        "name": "Trainer 3"
+                    },
+                    "customer": {
+                        "id": 1,
+                        "name": "Customer 1"
+                    },
+                    "card": {
+                        "id": 1,
+                        "name": "GTG Presentkort Gold"
+                    },
+                    "additionalPlayers": [
+                        {
+                            "id": 2,
+                            "name": "Player 2"
+                        },
+                        {
+                            "id": 1,
+                            "name": "Player 1"
+                        }
+                    ],
+                    "extras": [
+                        {
+                            "id": 1,
+                            "name": "Mineral Water",
+                            "qty": 5
+                        }
+                    ],
+                    "sendEmail": true
                 },
                 {
                     "id": "5",
@@ -93,7 +229,42 @@
                     "endHour": "2023-04-25T10:30:00.000Z",
                     "type": "CANCELLED_BY_SUBSCRIBER",
                     "reservedBy": "Claudio",
-                    "courtId": "62ec893705a2d700da38b0f5"
+                    "courtId": "62ec893705a2d700da38b0f5",
+                    "duration": 60,
+                    "weeklySubscription": null,
+                    "subscriptionDays": null,
+                    "endDateSubscription": null,
+                    "comment": "",
+                    "trainer": {
+                        "id": 1,
+                        "name": "Trainer 1"
+                    },
+                    "customer": {
+                        "id": 1,
+                        "name": "Customer 1"
+                    },
+                    "card": {
+                        "id": 1,
+                        "name": "GTG Presentkort Gold"
+                    },
+                    "additionalPlayers": [
+                        {
+                            "id": 4,
+                            "name": "Player 4"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Player 6"
+                        }
+                    ],
+                    "extras": [
+                        {
+                            "id": 1,
+                            "name": "Mineral Water",
+                            "qty": 10
+                        }
+                    ],
+                    "sendEmail": true
                 },
                 {
                     "id": "6",
@@ -102,7 +273,46 @@
                     "endHour": "2023-04-25T15:00:00.000Z",
                     "type": "INTERNAL_BOOKING",
                     "reservedBy": "Agung",
-                    "courtId": "62ec893705a2d700da38b0f5"
+                    "courtId": "62ec893705a2d700da38b0f5",
+                    "duration": 60,
+                    "weeklySubscription": null,
+                    "subscriptionDays": null,
+                    "endDateSubscription": null,
+                    "comment": "",
+                    "trainer": {
+                        "id": 5,
+                        "name": "Trainer 5"
+                    },
+                    "customer": {
+                        "id": 1,
+                        "name": "Customer 1"
+                    },
+                    "card": {
+                        "id": 1,
+                        "name": "GTG Presentkort Gold"
+                    },
+                    "additionalPlayers": [
+                        {
+                            "id": 2,
+                            "name": "Player 2"
+                        },
+                        {
+                            "id": 1,
+                            "name": "Player 1"
+                        },
+                        {
+                            "id": 3,
+                            "name": "Player 3"
+                        }
+                    ],
+                    "extras": [
+                        {
+                            "id": 1,
+                            "name": "Mineral Water",
+                            "qty": 4
+                        }
+                    ],
+                    "sendEmail": true
                 },
                 {
                     "id": "7",
@@ -111,7 +321,42 @@
                     "endHour": "2023-04-25T16:30:00.000Z",
                     "type": "SUBSCRIPTION",
                     "reservedBy": "Denny",
-                    "courtId": "62ec893705a2d700da38b0f5"
+                    "courtId": "62ec893705a2d700da38b0f5",
+                    "duration": 60,
+                    "weeklySubscription": 1,
+                    "subscriptionDays": [0, 3],
+                    "endDateSubscription": "2023-04-25",
+                    "comment": "",
+                    "trainer": {
+                        "id": 1,
+                        "name": "Trainer 1"
+                    },
+                    "customer": {
+                        "id": 1,
+                        "name": "Customer 1"
+                    },
+                    "card": {
+                        "id": 1,
+                        "name": "GTG Presentkort Gold"
+                    },
+                    "additionalPlayers": [
+                        {
+                            "id": 2,
+                            "name": "Player 2"
+                        },
+                        {
+                            "id": 1,
+                            "name": "Player 1"
+                        }
+                    ],
+                    "extras": [
+                        {
+                            "id": 1,
+                            "name": "Mineral Water",
+                            "qty": 4
+                        }
+                    ],
+                    "sendEmail": true
                 },
                 {
                     "id": "8",
@@ -120,116 +365,42 @@
                     "endHour": "2023-04-25T18:30:00.000Z",
                     "type": "ACTIVITY",
                     "reservedBy": "Zidan",
-                    "courtId": "62ec893705a2d700da38b0f5"
-                }
-            ]
-        },
-        {
-            "id": "2023-04-26",
-            "docs": [
-                {
-                    "id": "1",
-                    "datetime": "2023-04-26T07:30:00.000Z",
-                    "startHour": "2023-04-26T07:30:00.000Z",
-                    "endHour": "2023-04-26T08:30:00.000Z",
-                    "type": "ACTIVITY",
-                    "reservedBy": "Claudio",
-                    "courtId": "62ec893705a2d700da38b0f4"
-                },
-                {
-                    "id": "2",
-                    "datetime": "2023-04-26T15:30:00.000Z",
-                    "startHour": "2023-04-26T15:30:00.000Z",
-                    "endHour": "2023-04-26T16:30:00.000Z",
-                    "type": "SUBSCRIPTION",
-                    "reservedBy": "Denny",
-                    "courtId": "62ec893705a2d700da38b0f3"
-                },
-                {
-                    "id": "3",
-                    "datetime": "2023-04-26T08:30:00.000Z",
-                    "startHour": "2023-04-26T08:30:00.000Z",
-                    "endHour": "2023-04-26T10:30:00.000Z",
-                    "type": "CANCELLED_BY_SUBSCRIBER",
-                    "reservedBy": "Claudio",
-                    "courtId": "62ec893705a2d700da38b0f5"
-                },
-                {
-                    "id": "4",
-                    "datetime": "2023-04-26T14:00:00.000Z",
-                    "startHour": "2023-04-26T14:00:00.000Z",
-                    "endHour": "2023-04-26T15:00:00.000Z",
-                    "type": "INTERNAL_BOOKING",
-                    "reservedBy": "Agung",
-                    "courtId": "62ec893705a2d700da38b0f5"
-                },
-                {
-                    "id": "5",
-                    "datetime": "2023-04-26T16:30:00.000Z",
-                    "startHour": "2023-04-26T16:30:00.000Z",
-                    "endHour": "2023-04-26T18:30:00.000Z",
-                    "type": "BOOKED_FULLY_PAID",
-                    "reservedBy": "Zidan",
-                    "courtId": "62ec893705a2d700da38b0f4"
-                }
-            ]
-        },
-        {
-            "id": "2023-04-27",
-            "docs": [
-                {
-                    "id": "1",
-                    "datetime": "2023-04-27T07:30:00.000Z",
-                    "startHour": "2023-04-27T07:30:00.000Z",
-                    "endHour": "2023-04-27T08:30:00.000Z",
-                    "type": "ACTIVITY",
-                    "reservedBy": "Claudio",
-                    "courtId": "62ec893705a2d700da38b0f4"
-                },
-                {
-                    "id": "2",
-                    "datetime": "2023-04-27T08:30:00.000Z",
-                    "startHour": "2023-04-27T08:30:00.000Z",
-                    "endHour": "2023-04-27T10:30:00.000Z",
-                    "type": "BOOKED_FULLY_PAID",
-                    "reservedBy": "Claudio",
-                    "courtId": "62ec893705a2d700da38b0f5"
-                },
-                {
-                    "id": "3",
-                    "datetime": "2023-04-27T20:00:00.000Z",
-                    "startHour": "2023-04-27T20:00:00.000Z",
-                    "endHour": "2023-04-27T21:30:00.000Z",
-                    "type": "INTERNAL_BOOKING",
-                    "reservedBy": "Agung",
-                    "courtId": "62ec893705a2d700da38b0f5"
-                },
-                {
-                    "id": "4",
-                    "datetime": "2023-04-27T16:30:00.000Z",
-                    "startHour": "2023-04-27T16:30:00.000Z",
-                    "endHour": "2023-04-27T18:30:00.000Z",
-                    "type": "CANCELLED_BY_SUBSCRIBER",
-                    "reservedBy": "Zidan",
-                    "courtId": "62ec893705a2d700da38b0f4"
-                },
-                {
-                    "id": "5",
-                    "datetime": "2023-04-27T14:30:00.000Z",
-                    "startHour": "2023-04-27T14:30:00.000Z",
-                    "endHour": "2023-04-27T16:30:00.000Z",
-                    "type": "INTERNAL_BOOKING",
-                    "reservedBy": "Claudio",
-                    "courtId": "62ec893705a2d700da38b0f7"
-                },
-                {
-                    "id": "6",
-                    "datetime": "2023-04-27T09:30:00.000Z",
-                    "startHour": "2023-04-27T09:30:00.000Z",
-                    "endHour": "2023-04-27T11:30:00.000Z",
-                    "type": "SUBSCRIPTION",
-                    "reservedBy": "Agung",
-                    "courtId": "62ec893705a2d700da38b0g2"
+                    "courtId": "62ec893705a2d700da38b0f5",
+                    "duration": 60,
+                    "weeklySubscription": null,
+                    "subscriptionDays": null,
+                    "endDateSubscription": null,
+                    "comment": "",
+                    "trainer": {
+                        "id": 1,
+                        "name": "Trainer 1"
+                    },
+                    "customer": {
+                        "id": 1,
+                        "name": "Customer 1"
+                    },
+                    "card": {
+                        "id": 1,
+                        "name": "GTG Presentkort Gold"
+                    },
+                    "additionalPlayers": [
+                        {
+                            "id": 2,
+                            "name": "Player 2"
+                        },
+                        {
+                            "id": 1,
+                            "name": "Player 1"
+                        }
+                    ],
+                    "extras": [
+                        {
+                            "id": 1,
+                            "name": "Mineral Water",
+                            "qty": 4
+                        }
+                    ],
+                    "sendEmail": false
                 }
             ]
         }
