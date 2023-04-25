@@ -75,10 +75,7 @@
                         "id": 1,
                         "name": "Customer 1"
                     },
-                    "card": {
-                        "id": 1,
-                        "name": "GTG Presentkort Gold"
-                    },
+                    "card": null,
                     "additionalPlayers": [
                         {
                             "id": 2,
