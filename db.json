@@ -90,7 +90,8 @@
                         {
                             "id": 1,
                             "name": "Mineral Water",
-                            "qty": 4
+                            "qty": 4,
+                            "client": 0
                         }
                     ],
                     "sendEmail": true
@@ -134,7 +135,8 @@
                         {
                             "id": 1,
                             "name": "Mineral Water",
-                            "qty": 4
+                            "qty": 4,
+                            "client": 4
                         }
                     ],
                     "sendEmail": false
@@ -210,12 +212,18 @@
                         "id": 1,
                         "name": "GTG Presentkort Gold"
                     },
-                    "additionalPlayers": [],
+                    "additionalPlayers": [
+                        {
+                            "id": 3,
+                            "name": "Player 3"
+                        }
+                    ],
                     "extras": [
                         {
                             "id": 1,
                             "name": "Mineral Water",
-                            "qty": 5
+                            "qty": 5,
+                            "client": 3
                         }
                     ],
                     "sendEmail": true
