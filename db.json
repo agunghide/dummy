@@ -275,7 +275,8 @@
                         {
                             "id": 1,
                             "name": "Mineral Water",
-                            "qty": 10
+                            "qty": 10,
+                            "client": 1
                         }
                     ],
                     "sendEmail": true
